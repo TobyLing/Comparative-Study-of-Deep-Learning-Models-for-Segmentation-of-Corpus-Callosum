@@ -1,0 +1,849 @@
+1.1.0
+--------------------------------------------------
+epoch: 1     time: 237
+train_loss: tensor(0.0132, device='cuda:0')
+train_dice_loss tensor(0.2082, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0018, device='cuda:0')
+valid_dice_loss tensor(0.0645, device='cuda:0')
+sens: tensor(0.9556, device='cuda:0')
+--------------------------------------------------
+epoch: 2     time: 475
+train_loss: tensor(0.0021, device='cuda:0')
+train_dice_loss tensor(0.0681, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0016, device='cuda:0')
+valid_dice_loss tensor(0.0570, device='cuda:0')
+sens: tensor(0.9273, device='cuda:0')
+--------------------------------------------------
+epoch: 3     time: 713
+train_loss: tensor(0.0019, device='cuda:0')
+train_dice_loss tensor(0.0637, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0015, device='cuda:0')
+valid_dice_loss tensor(0.0540, device='cuda:0')
+sens: tensor(0.9438, device='cuda:0')
+--------------------------------------------------
+epoch: 4     time: 951
+train_loss: tensor(0.0018, device='cuda:0')
+train_dice_loss tensor(0.0602, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0015, device='cuda:0')
+valid_dice_loss tensor(0.0504, device='cuda:0')
+sens: tensor(0.9455, device='cuda:0')
+--------------------------------------------------
+epoch: 5     time: 1190
+train_loss: tensor(0.0018, device='cuda:0')
+train_dice_loss tensor(0.0580, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0014, device='cuda:0')
+valid_dice_loss tensor(0.0463, device='cuda:0')
+sens: tensor(0.9743, device='cuda:0')
+--------------------------------------------------
+epoch: 6     time: 1429
+train_loss: tensor(0.0017, device='cuda:0')
+train_dice_loss tensor(0.0564, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0014, device='cuda:0')
+valid_dice_loss tensor(0.0467, device='cuda:0')
+sens: tensor(0.9457, device='cuda:0')
+--------------------------------------------------
+epoch: 7     time: 1668
+train_loss: tensor(0.0017, device='cuda:0')
+train_dice_loss tensor(0.0555, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0013, device='cuda:0')
+valid_dice_loss tensor(0.0448, device='cuda:0')
+sens: tensor(0.9778, device='cuda:0')
+--------------------------------------------------
+epoch: 8     time: 1906
+train_loss: tensor(0.0016, device='cuda:0')
+train_dice_loss tensor(0.0535, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0013, device='cuda:0')
+valid_dice_loss tensor(0.0452, device='cuda:0')
+sens: tensor(0.9509, device='cuda:0')
+--------------------------------------------------
+epoch: 9     time: 2144
+train_loss: tensor(0.0016, device='cuda:0')
+train_dice_loss tensor(0.0524, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0013, device='cuda:0')
+valid_dice_loss tensor(0.0438, device='cuda:0')
+sens: tensor(0.9596, device='cuda:0')
+--------------------------------------------------
+epoch: 10     time: 2383
+train_loss: tensor(0.0016, device='cuda:0')
+train_dice_loss tensor(0.0519, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0012, device='cuda:0')
+valid_dice_loss tensor(0.0413, device='cuda:0')
+sens: tensor(0.9436, device='cuda:0')
+--------------------------------------------------
+epoch: 11     time: 2621
+train_loss: tensor(0.0015, device='cuda:0')
+train_dice_loss tensor(0.0500, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0012, device='cuda:0')
+valid_dice_loss tensor(0.0417, device='cuda:0')
+sens: tensor(0.9716, device='cuda:0')
+--------------------------------------------------
+epoch: 12     time: 2859
+train_loss: tensor(0.0015, device='cuda:0')
+train_dice_loss tensor(0.0496, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0012, device='cuda:0')
+valid_dice_loss tensor(0.0409, device='cuda:0')
+sens: tensor(0.9608, device='cuda:0')
+--------------------------------------------------
+epoch: 13     time: 3097
+train_loss: tensor(0.0015, device='cuda:0')
+train_dice_loss tensor(0.0484, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0012, device='cuda:0')
+valid_dice_loss tensor(0.0409, device='cuda:0')
+sens: tensor(0.9585, device='cuda:0')
+--------------------------------------------------
+epoch: 14     time: 3336
+train_loss: tensor(0.0014, device='cuda:0')
+train_dice_loss tensor(0.0471, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0012, device='cuda:0')
+valid_dice_loss tensor(0.0397, device='cuda:0')
+sens: tensor(0.9621, device='cuda:0')
+--------------------------------------------------
+epoch: 15     time: 3575
+train_loss: tensor(0.0014, device='cuda:0')
+train_dice_loss tensor(0.0464, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0012, device='cuda:0')
+valid_dice_loss tensor(0.0393, device='cuda:0')
+sens: tensor(0.9755, device='cuda:0')
+--------------------------------------------------
+epoch: 16     time: 3812
+train_loss: tensor(0.0014, device='cuda:0')
+train_dice_loss tensor(0.0460, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0013, device='cuda:0')
+valid_dice_loss tensor(0.0411, device='cuda:0')
+sens: tensor(0.9710, device='cuda:0')
+--------------------------------------------------
+epoch: 17     time: 4052
+train_loss: tensor(0.0014, device='cuda:0')
+train_dice_loss tensor(0.0454, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0011, device='cuda:0')
+valid_dice_loss tensor(0.0390, device='cuda:0')
+sens: tensor(0.9506, device='cuda:0')
+--------------------------------------------------
+epoch: 18     time: 4290
+train_loss: tensor(0.0013, device='cuda:0')
+train_dice_loss tensor(0.0440, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0011, device='cuda:0')
+valid_dice_loss tensor(0.0378, device='cuda:0')
+sens: tensor(0.9835, device='cuda:0')
+--------------------------------------------------
+epoch: 19     time: 4528
+train_loss: tensor(0.0013, device='cuda:0')
+train_dice_loss tensor(0.0435, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0011, device='cuda:0')
+valid_dice_loss tensor(0.0360, device='cuda:0')
+sens: tensor(0.9548, device='cuda:0')
+--------------------------------------------------
+epoch: 20     time: 4767
+train_loss: tensor(0.0013, device='cuda:0')
+train_dice_loss tensor(0.0428, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0011, device='cuda:0')
+valid_dice_loss tensor(0.0362, device='cuda:0')
+sens: tensor(0.9580, device='cuda:0')
+--------------------------------------------------
+epoch: 21     time: 5005
+train_loss: tensor(0.0013, device='cuda:0')
+train_dice_loss tensor(0.0427, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0011, device='cuda:0')
+valid_dice_loss tensor(0.0355, device='cuda:0')
+sens: tensor(0.9687, device='cuda:0')
+--------------------------------------------------
+epoch: 22     time: 5244
+train_loss: tensor(0.0013, device='cuda:0')
+train_dice_loss tensor(0.0419, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0011, device='cuda:0')
+valid_dice_loss tensor(0.0359, device='cuda:0')
+sens: tensor(0.9866, device='cuda:0')
+--------------------------------------------------
+epoch: 23     time: 5483
+train_loss: tensor(0.0012, device='cuda:0')
+train_dice_loss tensor(0.0413, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0010, device='cuda:0')
+valid_dice_loss tensor(0.0343, device='cuda:0')
+sens: tensor(0.9753, device='cuda:0')
+--------------------------------------------------
+epoch: 24     time: 5722
+train_loss: tensor(0.0012, device='cuda:0')
+train_dice_loss tensor(0.0409, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0011, device='cuda:0')
+valid_dice_loss tensor(0.0355, device='cuda:0')
+sens: tensor(0.9709, device='cuda:0')
+--------------------------------------------------
+epoch: 25     time: 5961
+train_loss: tensor(0.0012, device='cuda:0')
+train_dice_loss tensor(0.0401, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0010, device='cuda:0')
+valid_dice_loss tensor(0.0347, device='cuda:0')
+sens: tensor(0.9756, device='cuda:0')
+--------------------------------------------------
+epoch: 26     time: 6200
+train_loss: tensor(0.0012, device='cuda:0')
+train_dice_loss tensor(0.0399, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0010, device='cuda:0')
+valid_dice_loss tensor(0.0343, device='cuda:0')
+sens: tensor(0.9770, device='cuda:0')
+--------------------------------------------------
+epoch: 27     time: 6439
+train_loss: tensor(0.0012, device='cuda:0')
+train_dice_loss tensor(0.0394, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0011, device='cuda:0')
+valid_dice_loss tensor(0.0338, device='cuda:0')
+sens: tensor(0.9719, device='cuda:0')
+--------------------------------------------------
+epoch: 28     time: 6677
+train_loss: tensor(0.0012, device='cuda:0')
+train_dice_loss tensor(0.0400, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0010, device='cuda:0')
+valid_dice_loss tensor(0.0338, device='cuda:0')
+sens: tensor(0.9748, device='cuda:0')
+--------------------------------------------------
+epoch: 29     time: 6915
+train_loss: tensor(0.0011, device='cuda:0')
+train_dice_loss tensor(0.0386, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0010, device='cuda:0')
+valid_dice_loss tensor(0.0330, device='cuda:0')
+sens: tensor(0.9685, device='cuda:0')
+--------------------------------------------------
+epoch: 30     time: 7154
+train_loss: tensor(0.0011, device='cuda:0')
+train_dice_loss tensor(0.0383, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0011, device='cuda:0')
+valid_dice_loss tensor(0.0331, device='cuda:0')
+sens: tensor(0.9823, device='cuda:0')
+--------------------------------------------------
+epoch: 31     time: 7392
+train_loss: tensor(0.0011, device='cuda:0')
+train_dice_loss tensor(0.0380, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0010, device='cuda:0')
+valid_dice_loss tensor(0.0332, device='cuda:0')
+sens: tensor(0.9780, device='cuda:0')
+--------------------------------------------------
+epoch: 32     time: 7631
+train_loss: tensor(0.0011, device='cuda:0')
+train_dice_loss tensor(0.0377, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0010, device='cuda:0')
+valid_dice_loss tensor(0.0332, device='cuda:0')
+sens: tensor(0.9740, device='cuda:0')
+--------------------------------------------------
+epoch: 33     time: 7869
+train_loss: tensor(0.0011, device='cuda:0')
+train_dice_loss tensor(0.0376, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0010, device='cuda:0')
+valid_dice_loss tensor(0.0325, device='cuda:0')
+sens: tensor(0.9677, device='cuda:0')
+--------------------------------------------------
+epoch: 34     time: 8107
+train_loss: tensor(0.0011, device='cuda:0')
+train_dice_loss tensor(0.0369, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0010, device='cuda:0')
+valid_dice_loss tensor(0.0321, device='cuda:0')
+sens: tensor(0.9688, device='cuda:0')
+--------------------------------------------------
+epoch: 35     time: 8346
+train_loss: tensor(0.0011, device='cuda:0')
+train_dice_loss tensor(0.0368, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0010, device='cuda:0')
+valid_dice_loss tensor(0.0326, device='cuda:0')
+sens: tensor(0.9731, device='cuda:0')
+--------------------------------------------------
+epoch: 36     time: 8585
+train_loss: tensor(0.0011, device='cuda:0')
+train_dice_loss tensor(0.0370, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0307, device='cuda:0')
+sens: tensor(0.9736, device='cuda:0')
+--------------------------------------------------
+epoch: 37     time: 8824
+train_loss: tensor(0.0011, device='cuda:0')
+train_dice_loss tensor(0.0362, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0313, device='cuda:0')
+sens: tensor(0.9605, device='cuda:0')
+--------------------------------------------------
+epoch: 38     time: 9061
+train_loss: tensor(0.0011, device='cuda:0')
+train_dice_loss tensor(0.0361, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0010, device='cuda:0')
+valid_dice_loss tensor(0.0312, device='cuda:0')
+sens: tensor(0.9673, device='cuda:0')
+--------------------------------------------------
+epoch: 39     time: 9300
+train_loss: tensor(0.0011, device='cuda:0')
+train_dice_loss tensor(0.0359, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0010, device='cuda:0')
+valid_dice_loss tensor(0.0328, device='cuda:0')
+sens: tensor(0.9543, device='cuda:0')
+--------------------------------------------------
+epoch: 40     time: 9539
+train_loss: tensor(0.0011, device='cuda:0')
+train_dice_loss tensor(0.0356, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0313, device='cuda:0')
+sens: tensor(0.9787, device='cuda:0')
+--------------------------------------------------
+epoch: 41     time: 9777
+train_loss: tensor(0.0011, device='cuda:0')
+train_dice_loss tensor(0.0355, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0312, device='cuda:0')
+sens: tensor(0.9692, device='cuda:0')
+--------------------------------------------------
+epoch: 42     time: 10016
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0352, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0010, device='cuda:0')
+valid_dice_loss tensor(0.0310, device='cuda:0')
+sens: tensor(0.9703, device='cuda:0')
+--------------------------------------------------
+epoch: 43     time: 10253
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0350, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0310, device='cuda:0')
+sens: tensor(0.9785, device='cuda:0')
+--------------------------------------------------
+epoch: 44     time: 10492
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0347, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0305, device='cuda:0')
+sens: tensor(0.9657, device='cuda:0')
+--------------------------------------------------
+epoch: 45     time: 10730
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0346, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0303, device='cuda:0')
+sens: tensor(0.9814, device='cuda:0')
+--------------------------------------------------
+epoch: 46     time: 10968
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0344, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0300, device='cuda:0')
+sens: tensor(0.9651, device='cuda:0')
+--------------------------------------------------
+epoch: 47     time: 11206
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0342, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0301, device='cuda:0')
+sens: tensor(0.9735, device='cuda:0')
+--------------------------------------------------
+epoch: 48     time: 11444
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0346, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0296, device='cuda:0')
+sens: tensor(0.9663, device='cuda:0')
+--------------------------------------------------
+epoch: 49     time: 11682
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0339, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0298, device='cuda:0')
+sens: tensor(0.9714, device='cuda:0')
+--------------------------------------------------
+epoch: 50     time: 11921
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0337, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0301, device='cuda:0')
+sens: tensor(0.9678, device='cuda:0')
+--------------------------------------------------
+epoch: 51     time: 12159
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0338, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0294, device='cuda:0')
+sens: tensor(0.9731, device='cuda:0')
+--------------------------------------------------
+epoch: 52     time: 12397
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0335, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0301, device='cuda:0')
+sens: tensor(0.9827, device='cuda:0')
+--------------------------------------------------
+epoch: 53     time: 12636
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0333, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0289, device='cuda:0')
+sens: tensor(0.9786, device='cuda:0')
+--------------------------------------------------
+epoch: 54     time: 12874
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0332, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0300, device='cuda:0')
+sens: tensor(0.9522, device='cuda:0')
+--------------------------------------------------
+epoch: 55     time: 13112
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0331, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0302, device='cuda:0')
+sens: tensor(0.9663, device='cuda:0')
+--------------------------------------------------
+epoch: 56     time: 13351
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0330, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0295, device='cuda:0')
+sens: tensor(0.9682, device='cuda:0')
+--------------------------------------------------
+epoch: 57     time: 13589
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0328, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0293, device='cuda:0')
+sens: tensor(0.9602, device='cuda:0')
+--------------------------------------------------
+epoch: 58     time: 13827
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0327, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0296, device='cuda:0')
+sens: tensor(0.9826, device='cuda:0')
+--------------------------------------------------
+epoch: 59     time: 14065
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0325, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0292, device='cuda:0')
+sens: tensor(0.9732, device='cuda:0')
+--------------------------------------------------
+epoch: 60     time: 14303
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0325, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0292, device='cuda:0')
+sens: tensor(0.9790, device='cuda:0')
+--------------------------------------------------
+epoch: 61     time: 14541
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0322, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0291, device='cuda:0')
+sens: tensor(0.9789, device='cuda:0')
+--------------------------------------------------
+epoch: 62     time: 14780
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0322, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0288, device='cuda:0')
+sens: tensor(0.9699, device='cuda:0')
+--------------------------------------------------
+epoch: 63     time: 15018
+train_loss: tensor(0.0010, device='cuda:0')
+train_dice_loss tensor(0.0323, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0294, device='cuda:0')
+sens: tensor(0.9619, device='cuda:0')
+--------------------------------------------------
+epoch: 64     time: 15256
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0320, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0288, device='cuda:0')
+sens: tensor(0.9657, device='cuda:0')
+--------------------------------------------------
+epoch: 65     time: 15494
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0319, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0275, device='cuda:0')
+sens: tensor(0.9752, device='cuda:0')
+--------------------------------------------------
+epoch: 66     time: 15732
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0318, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0288, device='cuda:0')
+sens: tensor(0.9819, device='cuda:0')
+--------------------------------------------------
+epoch: 67     time: 15970
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0317, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0285, device='cuda:0')
+sens: tensor(0.9747, device='cuda:0')
+--------------------------------------------------
+epoch: 68     time: 16208
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0317, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0277, device='cuda:0')
+sens: tensor(0.9673, device='cuda:0')
+--------------------------------------------------
+epoch: 69     time: 16446
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0314, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0277, device='cuda:0')
+sens: tensor(0.9750, device='cuda:0')
+--------------------------------------------------
+epoch: 70     time: 16685
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0313, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0281, device='cuda:0')
+sens: tensor(0.9791, device='cuda:0')
+--------------------------------------------------
+epoch: 71     time: 16923
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0313, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0280, device='cuda:0')
+sens: tensor(0.9702, device='cuda:0')
+--------------------------------------------------
+epoch: 72     time: 17162
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0318, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0281, device='cuda:0')
+sens: tensor(0.9639, device='cuda:0')
+--------------------------------------------------
+epoch: 73     time: 17400
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0310, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0283, device='cuda:0')
+sens: tensor(0.9788, device='cuda:0')
+--------------------------------------------------
+epoch: 74     time: 17638
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0310, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0282, device='cuda:0')
+sens: tensor(0.9823, device='cuda:0')
+--------------------------------------------------
+epoch: 75     time: 17877
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0310, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0283, device='cuda:0')
+sens: tensor(0.9749, device='cuda:0')
+--------------------------------------------------
+epoch: 76     time: 18115
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0310, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0278, device='cuda:0')
+sens: tensor(0.9782, device='cuda:0')
+--------------------------------------------------
+epoch: 77     time: 18354
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0308, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0279, device='cuda:0')
+sens: tensor(0.9543, device='cuda:0')
+--------------------------------------------------
+epoch: 78     time: 18593
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0310, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0275, device='cuda:0')
+sens: tensor(0.9603, device='cuda:0')
+--------------------------------------------------
+epoch: 79     time: 18831
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0306, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0276, device='cuda:0')
+sens: tensor(0.9742, device='cuda:0')
+--------------------------------------------------
+epoch: 80     time: 19069
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0306, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0271, device='cuda:0')
+sens: tensor(0.9791, device='cuda:0')
+--------------------------------------------------
+epoch: 81     time: 19307
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0306, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0276, device='cuda:0')
+sens: tensor(0.9744, device='cuda:0')
+--------------------------------------------------
+epoch: 82     time: 19545
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0304, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0272, device='cuda:0')
+sens: tensor(0.9771, device='cuda:0')
+--------------------------------------------------
+epoch: 83     time: 19784
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0304, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0280, device='cuda:0')
+sens: tensor(0.9705, device='cuda:0')
+--------------------------------------------------
+epoch: 84     time: 20023
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0303, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0272, device='cuda:0')
+sens: tensor(0.9811, device='cuda:0')
+--------------------------------------------------
+epoch: 85     time: 20261
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0304, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0270, device='cuda:0')
+sens: tensor(0.9788, device='cuda:0')
+--------------------------------------------------
+epoch: 86     time: 20499
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0302, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0268, device='cuda:0')
+sens: tensor(0.9823, device='cuda:0')
+--------------------------------------------------
+epoch: 87     time: 20738
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0300, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0281, device='cuda:0')
+sens: tensor(0.9779, device='cuda:0')
+--------------------------------------------------
+epoch: 88     time: 20976
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0301, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0275, device='cuda:0')
+sens: tensor(0.9704, device='cuda:0')
+--------------------------------------------------
+epoch: 89     time: 21214
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0299, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0275, device='cuda:0')
+sens: tensor(0.9609, device='cuda:0')
+--------------------------------------------------
+epoch: 90     time: 21453
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0299, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0274, device='cuda:0')
+sens: tensor(0.9820, device='cuda:0')
+--------------------------------------------------
+epoch: 91     time: 21692
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0298, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0266, device='cuda:0')
+sens: tensor(0.9823, device='cuda:0')
+--------------------------------------------------
+epoch: 92     time: 21931
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0296, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0265, device='cuda:0')
+sens: tensor(0.9799, device='cuda:0')
+--------------------------------------------------
+epoch: 93     time: 22170
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0298, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0268, device='cuda:0')
+sens: tensor(0.9723, device='cuda:0')
+--------------------------------------------------
+epoch: 94     time: 22408
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0296, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0266, device='cuda:0')
+sens: tensor(0.9671, device='cuda:0')
+--------------------------------------------------
+epoch: 95     time: 22647
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0295, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0265, device='cuda:0')
+sens: tensor(0.9654, device='cuda:0')
+--------------------------------------------------
+epoch: 96     time: 22885
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0295, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0264, device='cuda:0')
+sens: tensor(0.9658, device='cuda:0')
+--------------------------------------------------
+epoch: 97     time: 23124
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0294, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0262, device='cuda:0')
+sens: tensor(0.9710, device='cuda:0')
+--------------------------------------------------
+epoch: 98     time: 23362
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0294, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0272, device='cuda:0')
+sens: tensor(0.9826, device='cuda:0')
+--------------------------------------------------
+epoch: 99     time: 23601
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0293, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0266, device='cuda:0')
+sens: tensor(0.9705, device='cuda:0')
+--------------------------------------------------
+epoch: 100     time: 23839
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0294, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0269, device='cuda:0')
+sens: tensor(0.9678, device='cuda:0')
+--------------------------------------------------
+epoch: 101     time: 24078
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0295, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0009, device='cuda:0')
+valid_dice_loss tensor(0.0296, device='cuda:0')
+sens: tensor(0.9752, device='cuda:0')
+--------------------------------------------------
+epoch: 102     time: 24315
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0294, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0275, device='cuda:0')
+sens: tensor(0.9724, device='cuda:0')
+--------------------------------------------------
+epoch: 103     time: 24554
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0290, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0260, device='cuda:0')
+sens: tensor(0.9743, device='cuda:0')
+--------------------------------------------------
+epoch: 104     time: 24792
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0290, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0260, device='cuda:0')
+sens: tensor(0.9753, device='cuda:0')
+--------------------------------------------------
+epoch: 105     time: 25031
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0291, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0262, device='cuda:0')
+sens: tensor(0.9777, device='cuda:0')
+--------------------------------------------------
+epoch: 106     time: 25269
+train_loss: tensor(0.0009, device='cuda:0')
+train_dice_loss tensor(0.0290, device='cuda:0', grad_fn=<DivBackward0>)
+In Validation
+valid_loss: tensor(0.0008, device='cuda:0')
+valid_dice_loss tensor(0.0270, device='cuda:0')
+sens: tensor(0.9750, device='cuda:0')

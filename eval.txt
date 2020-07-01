@@ -1,0 +1,630 @@
+1.1.0
+in Training
+epoch: 1     time: 99
+train_loss: tensor(0.0299, device='cuda:0')
+train_dice_loss tensor(0.5128, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.4831, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9986, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9948, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.7254, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0083, device='cuda:0')
+valid_dice_loss tensor(0.3982, device='cuda:0')
+sensitivity: tensor(0.4913, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9987, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9951, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.7334, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+Validation loss decreased (inf --> 0.008342).  Saving model ...
+in Training
+epoch: 2     time: 198
+train_loss: tensor(0.0039, device='cuda:0')
+train_dice_loss tensor(0.1418, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9414, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9993, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9989, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9006, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0029, device='cuda:0')
+valid_dice_loss tensor(0.0934, device='cuda:0')
+sensitivity: tensor(0.9225, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9996, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9990, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9460, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+Validation loss decreased (0.008342 --> 0.002859).  Saving model ...
+in Training
+epoch: 3     time: 297
+train_loss: tensor(0.0029, device='cuda:0')
+train_dice_loss tensor(0.0907, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9607, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9990, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9987, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.8965, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0022, device='cuda:0')
+valid_dice_loss tensor(0.0701, device='cuda:0')
+sensitivity: tensor(0.9615, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9994, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9991, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9394, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+Validation loss decreased (0.002859 --> 0.002175).  Saving model ...
+in Training
+epoch: 4     time: 397
+train_loss: tensor(0.0026, device='cuda:0')
+train_dice_loss tensor(0.0841, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9616, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9993, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9990, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9164, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0020, device='cuda:0')
+valid_dice_loss tensor(0.0676, device='cuda:0')
+sensitivity: tensor(0.9496, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9995, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9989, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9577, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+Validation loss decreased (0.002175 --> 0.001984).  Saving model ...
+in Training
+epoch: 5     time: 498
+train_loss: tensor(0.0024, device='cuda:0')
+train_dice_loss tensor(0.0775, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9598, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9988, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9983, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9006, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0022, device='cuda:0')
+valid_dice_loss tensor(0.0717, device='cuda:0')
+sensitivity: tensor(0.9755, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9984, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9982, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.8644, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 1 out of 20
+in Training
+epoch: 6     time: 597
+train_loss: tensor(0.0023, device='cuda:0')
+train_dice_loss tensor(0.0740, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.8689, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9993, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9982, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9088, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0019, device='cuda:0')
+valid_dice_loss tensor(0.0655, device='cuda:0')
+sensitivity: tensor(0.9724, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9991, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9989, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.8762, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+Validation loss decreased (0.001984 --> 0.001946).  Saving model ...
+in Training
+epoch: 7     time: 698
+train_loss: tensor(0.0022, device='cuda:0')
+train_dice_loss tensor(0.0711, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9632, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9995, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9438, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0018, device='cuda:0')
+valid_dice_loss tensor(0.0590, device='cuda:0')
+sensitivity: tensor(0.9782, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9980, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9978, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.7823, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+Validation loss decreased (0.001946 --> 0.001818).  Saving model ...
+in Training
+epoch: 8     time: 798
+train_loss: tensor(0.0022, device='cuda:0')
+train_dice_loss tensor(0.0734, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9558, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9986, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9981, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.8832, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0020, device='cuda:0')
+valid_dice_loss tensor(0.0625, device='cuda:0')
+sensitivity: tensor(0.9656, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9994, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9990, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9468, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 1 out of 20
+in Training
+epoch: 9     time: 897
+train_loss: tensor(0.0020, device='cuda:0')
+train_dice_loss tensor(0.0668, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9033, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9993, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9984, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9313, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0020, device='cuda:0')
+valid_dice_loss tensor(0.0633, device='cuda:0')
+sensitivity: tensor(0.9642, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9995, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9991, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9564, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 2 out of 20
+in Training
+epoch: 10     time: 995
+train_loss: tensor(0.0020, device='cuda:0')
+train_dice_loss tensor(0.0669, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9132, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9997, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9988, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9688, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0017, device='cuda:0')
+valid_dice_loss tensor(0.0552, device='cuda:0')
+sensitivity: tensor(0.9503, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9997, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9618, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+Validation loss decreased (0.001818 --> 0.001748).  Saving model ...
+in Training
+epoch: 11     time: 1097
+train_loss: tensor(0.0023, device='cuda:0')
+train_dice_loss tensor(0.0721, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9325, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9998, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9772, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0018, device='cuda:0')
+valid_dice_loss tensor(0.0607, device='cuda:0')
+sensitivity: tensor(0.9335, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9990, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9985, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.8612, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 1 out of 20
+in Training
+epoch: 12     time: 1198
+train_loss: tensor(0.0020, device='cuda:0')
+train_dice_loss tensor(0.0647, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9732, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9995, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9993, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9293, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0018, device='cuda:0')
+valid_dice_loss tensor(0.0532, device='cuda:0')
+sensitivity: tensor(0.9845, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9983, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9982, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.8412, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 2 out of 20
+in Training
+epoch: 13     time: 1297
+train_loss: tensor(0.0020, device='cuda:0')
+train_dice_loss tensor(0.0670, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9677, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9995, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9448, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0018, device='cuda:0')
+valid_dice_loss tensor(0.0581, device='cuda:0')
+sensitivity: tensor(0.8965, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9996, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9985, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9544, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 3 out of 20
+in Training
+epoch: 14     time: 1396
+train_loss: tensor(0.0020, device='cuda:0')
+train_dice_loss tensor(0.0654, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9602, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9987, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9984, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.8761, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0017, device='cuda:0')
+valid_dice_loss tensor(0.0583, device='cuda:0')
+sensitivity: tensor(0.9354, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9986, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9174, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+Validation loss decreased (0.001748 --> 0.001686).  Saving model ...
+in Training
+epoch: 15     time: 1495
+train_loss: tensor(0.0020, device='cuda:0')
+train_dice_loss tensor(0.0645, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9516, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9998, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9771, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0016, device='cuda:0')
+valid_dice_loss tensor(0.0511, device='cuda:0')
+sensitivity: tensor(0.9796, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9994, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9392, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+Validation loss decreased (0.001686 --> 0.001569).  Saving model ...
+in Training
+epoch: 16     time: 1596
+train_loss: tensor(0.0020, device='cuda:0')
+train_dice_loss tensor(0.0653, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9356, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9991, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9987, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.8749, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0016, device='cuda:0')
+valid_dice_loss tensor(0.0523, device='cuda:0')
+sensitivity: tensor(0.9356, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9996, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9988, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9687, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 1 out of 20
+in Training
+epoch: 17     time: 1695
+train_loss: tensor(0.0019, device='cuda:0')
+train_dice_loss tensor(0.0623, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9608, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9997, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9993, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9665, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0016, device='cuda:0')
+valid_dice_loss tensor(0.0555, device='cuda:0')
+sensitivity: tensor(0.9162, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9991, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9984, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9058, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 2 out of 20
+in Training
+epoch: 18     time: 1795
+train_loss: tensor(0.0018, device='cuda:0')
+train_dice_loss tensor(0.0613, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9277, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9999, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9993, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9871, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0017, device='cuda:0')
+valid_dice_loss tensor(0.0533, device='cuda:0')
+sensitivity: tensor(0.9458, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9997, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9577, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 3 out of 20
+in Training
+epoch: 19     time: 1896
+train_loss: tensor(0.0019, device='cuda:0')
+train_dice_loss tensor(0.0624, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9431, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9993, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9987, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9355, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0017, device='cuda:0')
+valid_dice_loss tensor(0.0559, device='cuda:0')
+sensitivity: tensor(0.9502, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9995, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9990, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9472, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 4 out of 20
+in Training
+epoch: 20     time: 1997
+train_loss: tensor(0.0019, device='cuda:0')
+train_dice_loss tensor(0.0627, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9688, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9994, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9991, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9267, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0015, device='cuda:0')
+valid_dice_loss tensor(0.0506, device='cuda:0')
+sensitivity: tensor(0.9646, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9991, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9988, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9018, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+Validation loss decreased (0.001569 --> 0.001527).  Saving model ...
+in Training
+epoch: 21     time: 2098
+train_loss: tensor(0.0018, device='cuda:0')
+train_dice_loss tensor(0.0601, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9437, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9997, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9993, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9645, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0016, device='cuda:0')
+valid_dice_loss tensor(0.0553, device='cuda:0')
+sensitivity: tensor(0.9475, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9997, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9991, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9716, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 1 out of 20
+in Training
+epoch: 22     time: 2197
+train_loss: tensor(0.0018, device='cuda:0')
+train_dice_loss tensor(0.0595, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.8428, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9976, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9230, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0017, device='cuda:0')
+valid_dice_loss tensor(0.0549, device='cuda:0')
+sensitivity: tensor(0.9840, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9991, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9329, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 2 out of 20
+in Training
+epoch: 23     time: 2297
+train_loss: tensor(0.0018, device='cuda:0')
+train_dice_loss tensor(0.0593, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9511, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9997, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9993, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9534, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0015, device='cuda:0')
+valid_dice_loss tensor(0.0526, device='cuda:0')
+sensitivity: tensor(0.9582, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9994, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9991, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9193, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+Validation loss decreased (0.001527 --> 0.001500).  Saving model ...
+in Training
+epoch: 24     time: 2397
+train_loss: tensor(0.0018, device='cuda:0')
+train_dice_loss tensor(0.0591, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9659, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9997, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9993, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9745, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0016, device='cuda:0')
+valid_dice_loss tensor(0.0518, device='cuda:0')
+sensitivity: tensor(0.9803, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9994, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9277, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 1 out of 20
+in Training
+epoch: 25     time: 2497
+train_loss: tensor(0.0020, device='cuda:0')
+train_dice_loss tensor(0.0631, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9409, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9986, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9197, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0017, device='cuda:0')
+valid_dice_loss tensor(0.0548, device='cuda:0')
+sensitivity: tensor(0.9788, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9994, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9268, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 2 out of 20
+in Training
+epoch: 26     time: 2597
+train_loss: tensor(0.0018, device='cuda:0')
+train_dice_loss tensor(0.0596, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9459, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9998, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9994, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9722, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0015, device='cuda:0')
+valid_dice_loss tensor(0.0507, device='cuda:0')
+sensitivity: tensor(0.9548, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9998, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9994, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9695, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 3 out of 20
+in Training
+epoch: 27     time: 2697
+train_loss: tensor(0.0017, device='cuda:0')
+train_dice_loss tensor(0.0571, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9891, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9988, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9988, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.8465, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0015, device='cuda:0')
+valid_dice_loss tensor(0.0477, device='cuda:0')
+sensitivity: tensor(0.9104, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9997, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9988, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9684, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+Validation loss decreased (0.001500 --> 0.001485).  Saving model ...
+in Training
+epoch: 28     time: 2799
+train_loss: tensor(0.0017, device='cuda:0')
+train_dice_loss tensor(0.0572, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9627, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9996, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9993, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9495, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0014, device='cuda:0')
+valid_dice_loss tensor(0.0516, device='cuda:0')
+sensitivity: tensor(0.9482, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9996, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9991, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9643, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+Validation loss decreased (0.001485 --> 0.001444).  Saving model ...
+in Training
+epoch: 29     time: 2898
+train_loss: tensor(0.0017, device='cuda:0')
+train_dice_loss tensor(0.0575, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9580, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9997, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9993, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9718, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0013, device='cuda:0')
+valid_dice_loss tensor(0.0451, device='cuda:0')
+sensitivity: tensor(0.9391, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9994, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9990, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9207, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+Validation loss decreased (0.001444 --> 0.001340).  Saving model ...
+in Training
+epoch: 30     time: 2998
+train_loss: tensor(0.0018, device='cuda:0')
+train_dice_loss tensor(0.0584, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9439, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9988, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9985, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.8516, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0020, device='cuda:0')
+valid_dice_loss tensor(0.0542, device='cuda:0')
+sensitivity: tensor(0.9663, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9973, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9971, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.7525, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 1 out of 20
+in Training
+epoch: 31     time: 3098
+train_loss: tensor(0.0018, device='cuda:0')
+train_dice_loss tensor(0.0583, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9098, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9997, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9989, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9636, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0015, device='cuda:0')
+valid_dice_loss tensor(0.0507, device='cuda:0')
+sensitivity: tensor(0.9345, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9998, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9991, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9846, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 2 out of 20
+in Training
+epoch: 32     time: 3197
+train_loss: tensor(0.0017, device='cuda:0')
+train_dice_loss tensor(0.0564, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9766, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9996, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9993, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9566, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0015, device='cuda:0')
+valid_dice_loss tensor(0.0477, device='cuda:0')
+sensitivity: tensor(0.9440, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9997, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9684, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 3 out of 20
+in Training
+epoch: 33     time: 3297
+train_loss: tensor(0.0017, device='cuda:0')
+train_dice_loss tensor(0.0564, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9478, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9996, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9991, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9502, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0016, device='cuda:0')
+valid_dice_loss tensor(0.0520, device='cuda:0')
+sensitivity: tensor(0.9573, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9995, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9479, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 4 out of 20
+in Training
+epoch: 34     time: 3397
+train_loss: tensor(0.0017, device='cuda:0')
+train_dice_loss tensor(0.0565, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9769, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9996, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9993, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9595, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0015, device='cuda:0')
+valid_dice_loss tensor(0.0483, device='cuda:0')
+sensitivity: tensor(0.9731, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9996, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9994, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9620, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 5 out of 20
+in Training
+epoch: 35     time: 3497
+train_loss: tensor(0.0018, device='cuda:0')
+train_dice_loss tensor(0.0589, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9612, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9994, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9990, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9270, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0014, device='cuda:0')
+valid_dice_loss tensor(0.0465, device='cuda:0')
+sensitivity: tensor(0.9775, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9990, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.8929, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 6 out of 20
+in Training
+epoch: 36     time: 3596
+train_loss: tensor(0.0017, device='cuda:0')
+train_dice_loss tensor(0.0554, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9124, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9994, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9988, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9176, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0015, device='cuda:0')
+valid_dice_loss tensor(0.0481, device='cuda:0')
+sensitivity: tensor(0.9761, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9996, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9994, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9608, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 7 out of 20
+in Training
+epoch: 37     time: 3695
+train_loss: tensor(0.0018, device='cuda:0')
+train_dice_loss tensor(0.0576, device='cuda:0', grad_fn=<DivBackward0>)
+sensitivity: tensor(0.9348, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9998, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9992, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9839, device='cuda:0', grad_fn=<DivBackward0>)
+in VALIDATION
+valid_loss: tensor(0.0014, device='cuda:0')
+valid_dice_loss tensor(0.0459, device='cuda:0')
+sensitivity: tensor(0.9341, device='cuda:0', grad_fn=<DivBackward0>)
+specificity:  tensor(0.9996, device='cuda:0', grad_fn=<DivBackward0>)
+accuracy: tensor(0.9987, device='cuda:0', grad_fn=<DivBackward0>)
+precision: tensor(0.9665, device='cuda:0', grad_fn=<DivBackward0>)
+--------------------------------------------------
+EarlyStopping counter: 8 out of 20
